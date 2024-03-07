@@ -1,6 +1,6 @@
 {
-    "name": "jak_one_pay",
-    "short_name": "jak_one_pay",
+    "name": "jak_one_app_replacement",
+    "short_name": "jak_one_app_replacement",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
