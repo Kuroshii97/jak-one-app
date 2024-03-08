@@ -1,4 +1,4 @@
-# jak_one_app_replacement
+# jak_one_app
 
 A new Flutter project.
 
