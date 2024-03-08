@@ -14,4 +14,6 @@ class ColorConstant {
   static Color jakOneDarkOrange = hexToColor('#FE5F5F');
   static Color jakOneLighterOrange = hexToColor('#FC9842');
   static Color jakOneLightestOrange = hexToColor('#FFF84B');
+  static Color jakOneWhiteOrange = hexToColor('#FFE3CA');
+  static Color jakOneYellow = hexToColor('#F2C94C');
 }
